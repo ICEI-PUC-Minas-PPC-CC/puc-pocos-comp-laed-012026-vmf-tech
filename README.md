@@ -2,7 +2,8 @@
 #VMF Clothing
 
 #Alunos:
-#Vinicius Ramalho Pereto
-#Murilo de Souza Oliveira
-#Felipe Faustino Ferreira
+
+Vinicius Ramalho Pereto
+Murilo de Souza Oliveira
+Felipe Faustino Ferreira
 
