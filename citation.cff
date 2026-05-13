@@ -1,0 +1,27 @@
+title: Catalogo de Roupas
+authors:
+  - family-names: Ferreira
+    given-names: Felipe
+  - family-names: Pereto
+    given-names: Vinicius
+  - family-names: Oliveira
+    given-names: Murilo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Pontes
+    given-names: Diego
+
+keywords:
+  - Camisas
+  - Blusa
+  - Bermudas
+  - Calças
+  - Tamanhos
+  - Modelos
+  - Masculino
+  - Feminino
+  - Cor
+ 
+repository-code: https://github.com/ICEI-PUC-Minas-PPC-CC/puc-pocos-comp-laed-012026-vmf-tech
+version: 1.0.0
+date-released: 2026-05-12
